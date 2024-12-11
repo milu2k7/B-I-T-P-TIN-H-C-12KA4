@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BÀI TẬP NHÓM</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-image: url('https://i.pinimg.com/originals/4f/64/7b/4f647b91ad34806eac0d92721a535f01.jpg');
+            background-size: cover;
+            background-position: center;
+            color: white;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7);
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.5);
+        }
+        section {
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.5);
+            margin: 10px;
+            border-radius: 8px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: rgba(0, 0, 0, 0.5);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>BÀI TẬP NHÓM</h1>
+    </header>
+    
+    <section>
+        <h2>Hình Ảnh</h2>
+        <img src="https://i.pinimg.com/736x/d6/58/e0/d658e040c5a6c3dcf319c40792a29c93.jpg" alt="Ảnh minh họa ngẫu nhiên" width="500">
+    </section>
+    
+    <section>
+        <h2>Video</h2>
+        <iframe src="https://assets.pinterest.com/ext/embed.html?id=818599669783830611" height="454" width="236" frameborder="0" scrolling="no" ></iframe>
+    </section>
+    
+    <section>
+        <h2>Âm Thanh</h2>
+        <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/136521502&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/hermawan-herie" title="Hermawan Herie" target="_blank" style="color: #cccccc; text-decoration: none;">Hermawan Herie</a> · <a href="https://soundcloud.com/hermawan-herie/tori-no-uta-classic-instrume" title="Tori no Uta ~Classic~ Instrume" target="_blank" style="color: #cccccc; text-decoration: none;">Tori no Uta ~Classic~ Instrume</a></div>
+        </iframe>
+    </section>
+    
+</body>
+</html>
